@@ -1,4 +1,4 @@
-Practicum_Yandex_projects_(Project tree)
+Portfolio_Project_Tree
 
 -> Product_analysis_projects
 
